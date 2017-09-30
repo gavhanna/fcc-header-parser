@@ -1,2 +1,4 @@
-# fcc-header-parser
-Request Header Parser Microservice, backend project for Free Code Camp.
+# Request Header Parser Microservice
+## Free Code Camp Backend Project
+
+Created on glitch.com, using node/express.
